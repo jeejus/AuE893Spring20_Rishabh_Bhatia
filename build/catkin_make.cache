@@ -1,0 +1,2 @@
+turtlesim_cleaner
+-DCATKIN_DEVEL_PREFIX=/home/jeejus/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/jeejus/catkin_ws/install -G Unix Makefiles
